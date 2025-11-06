@@ -1,6 +1,6 @@
 name: astrbot_plugin_message_relay
 author: cupcatOOO
 description: 机器人主动向指定用户/群聊传话的插件
-version: 1.0.0
+version: 1.0.1
 repo: https://github.com/cupcatOOO/astrbot_plugin_message_relay
 display_name: 传话小助手
